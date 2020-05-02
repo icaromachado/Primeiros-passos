@@ -1,2 +1,4 @@
-# Primeiros-passos
- testes sobre github
+# Primeiros Passos
+ testes sobre git e github
+
+Entendimento para uso acadêmicos
